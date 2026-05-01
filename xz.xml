@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="god.xsl"?>
+<items>
+	<item id="1" parentid="0" author="Вася Пупкин">Привет всем!</item>
+	<item id="2" parentid="1" author="Федя Сумкин">Ну, привет</item>
+	<item id="3" parentid="2" author="Вова Морковкин">Не ну, а Привет!</item>
+	<item id="4" parentid="2" author="Петя Зайцев">Чё так не весело?</item>
+	<item id="5" parentid="4" author="Зина Корзинкина">Может у него настроение плохое</item>
+	<item id="6" parentid="5" author="Петя Зайцев">Я просто спросил</item>
+	<item id="7" parentid="1" author="Вова Морковкин">И тебе привет! Как дела?</item>
+	<item id="8" parentid="7" author="Вася Пупкин">Ничё так.</item>
+</items>
